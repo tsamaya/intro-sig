@@ -1,6 +1,8 @@
 
-# Créé des cartes modernes
+# GIS Day 2015
 
-## Journée internationale du SIG 2015
+## Journée internationale du SIG
 
-Arnaud Ferrand
+### Introduction au SIG
+
+maptime alpes
