@@ -1,4 +1,4 @@
-## Sources
+## Credits
 - [MapSchool](http://mapschool.io/index.fr.html)  <!-- .element target="_blank" -->
 - [webgeodatavore](http://labs.webgeodatavore.com/github-maptime-fr/) Thomas Gratier pour Maptime Nantes <!-- .element target="_blank" -->
 - wikipedia [SIG](https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27information_g%C3%A9ographique)  <!-- .element target="_blank" -->
